@@ -1,0 +1,10 @@
+=== Student Onboarding ===
+INPUT: name=Riya;email=riya@sst.edu;phone=9876543210;program=CSE
+OK: created student SST-2026-0001
+Saved. Total students: 1
+CONFIRMATION:
+StudentRecord{id='SST-2026-0001', name='Riya', email='riya@sst.edu', phone='9876543210', program='CSE'}
+
+-- DB DUMP --
+| ID             | NAME | PROGRAM |
+| SST-2026-0001  | Riya | CSE     |
